@@ -3,7 +3,7 @@
 
   <groupId>org.MavR</groupId>
   <artifactId>MavR</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>jar</packaging>
 
   <name>MavR</name>
@@ -16,7 +16,7 @@
   <scm>
      <connection>scm:git:https://github.com/Nivedha18-V/MavR.git</connection>
      <url>scm:git:https://github.com/Nivedha18-V/MavR.git</url>
-    <tag>MR1-0.0.8</tag>
+    <tag>MavR-0.0.2</tag>
   </scm>
   
   <distributionManagement>
